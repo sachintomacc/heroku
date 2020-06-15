@@ -15,7 +15,7 @@ SECRET_KEY = '56n!k6$jy^@@e^5gxyu*tfk^ev9(+58r5fjrbr4rjd^9h05=%h'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['https://sachintom-ecomm.herokuapp.com','127.0.0.1']
+ALLOWED_HOSTS = ['.herokuapp.com','127.0.0.1']
 
 
 # Application definition
